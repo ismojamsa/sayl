@@ -15,6 +15,6 @@
 <script>
  $(document).foundation();
 </script>
-  <script src="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.js"></script>    
+  <script src="https://cdn.jsdelivr.net/foundation/6.3.0/foundation.min.js"></script>    
  </body>
 </html>
