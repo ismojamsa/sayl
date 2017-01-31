@@ -11,8 +11,8 @@
     <body>
     
      <header>
-      <h1 style="color:white;">Suomi-Amerikka yhdistyneiden liitto</h1>
-      <h5 style="color:white;">SAYL</h5>
+      <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
+      <h5>SAYL</h5>
      </header>          
      
      <nav>
