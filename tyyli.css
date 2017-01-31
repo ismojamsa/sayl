@@ -14,3 +14,16 @@
     background-color: #f5f5f5;
     text-align: center;
     }
+/* Viivoja */
+    .y {
+    border-top: 1px solid white;
+    }
+    .a {
+    border-bottom: 1px solid white;
+    }
+    .l {
+    border-left: 1px solid white;
+    }
+    .r {
+    border-right: 1px solid white
+    }
