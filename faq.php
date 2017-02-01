@@ -24,24 +24,22 @@
             <h5>SAYL</h5>
           </div>
         </div>
-
+      </header>
 
      <nav>
-       <ul class="menu">
-         <div class="row">
-           <div class="small-12">
-             <li><a href="">Etusivu</a></li>
-             <li><a href="">Jäsennyys</a></li>
-             <li><a href="">Aktiviteetit</a></li>
-             <li><a href="">Matkailu</a></li>
-             <li><a href="">Julkaisut</a></li>
-             <li class="active"><a href="">FAQ</a></li>
-             <li><a href="">Yhteystiedot</a></li>
-           </div>
-         </div>
+       <ul class="menu">         
+         <li><a href="">Etusivu</a></li>
+         <li><a href="">Jäsennyys</a></li>
+         <li><a href="">Aktiviteetit</a></li>
+         <li><a href="">Matkailu</a></li>
+         <li><a href="">Julkaisut</a></li>
+         <li class="active"><a href="">FAQ</a></li>
+         <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
-    </header>
+    
+    
+    
               
       
       </div>
