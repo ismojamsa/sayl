@@ -29,6 +29,18 @@
     </header>
 
 
+
+
+        <footer class="footer">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12">
+                <p>Eteläranta 6 A 8, 3. krs, 00130 Helsinki, Finland. sayl@sayl.fi Tekninen toteutus by Joan</p>
+              </div>
+            </div>
+          </div>
+        </footer> 
+
 <script>
  $(document).foundation();
 </script>
