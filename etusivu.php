@@ -35,11 +35,17 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-12">
+                <img
+                src="http://sayl.fi/wp-content/uploads/2015/09/toast_bagel1940x1803.png"width="100%" height="">
+              </div>
+            <div class="row y">
+              <div class="col-sm-12">
                 <p>Eteläranta 6 A 8, 3. krs, 00130 Helsinki, Finland. sayl@sayl.fi Tekninen toteutus by Joan</p>
               </div>
             </div>
           </div>
         </footer> 
+
 
 <script>
  $(document).foundation();

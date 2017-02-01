@@ -58,8 +58,8 @@
        padding: 0;
        overflow: hidden;
        background:white;
-       border-bottom: 3px solid red;
-       border-top: 3px solid blue;
+       border-bottom: 3px solid #e31c3d;
+       border-top: 3px solid #02bfe7;
        }
        li {
        display: inline;
