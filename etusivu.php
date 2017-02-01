@@ -25,16 +25,30 @@
     </header>
 
      <nav>
-       <ul class="menu">
-        <li class="active"><a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/etusivu.php">Etusivu</a></li>
-        <li><a href="">Jäsennyys</a></li>
-        <li><a href="">Aktiviteetit</a></li>
-        <li><a href="">Matkailu</a></li>
-        <li><a href="">Julkaisut</a></li>
-        <li><a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/faq.php">FAQ</a></li>
-        <li><a href="">Yhteystiedot</a></li>
-       </ul>
+     <ul>
+       <div class="row menu">
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/etusivu.php">Etusivu</a>
+         </div>
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="">Aktiviteetit</a>
+         </div>
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="">Matkailu</a>
+         </div>
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="">Julkaisut</a>
+         </div>
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/faq.php" class="active">FAQ</a>
+         </div>
+         <div class="small-12 medium-2 large-2 columns">
+           <a href="">Yhteystiedot</a>
+         </div>
+       </div>
+     </ul>
      </nav>
+
 
 <br><br>
          <article>
