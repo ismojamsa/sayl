@@ -102,4 +102,20 @@
  position:absolute;
  margin-left:-5px;
  width:80px;
- }        
+ }
+ 
+/* div-row */
+
+ div.row {
+ background-color: white;
+ color: black; 
+ padding: ;
+ width: 100%;
+ display:block;
+ }
+
+  .row p {
+  padding:3px;
+  margin:1;
+ }
+        
