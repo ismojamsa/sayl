@@ -7,9 +7,7 @@
         <meta name="viewport" content="width-device-width,initial-scale=1.0"/>  
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/tyyli.css">
-        <style>
         
-        </style>
     </head>
     <body>
       <div class="container reunat">
@@ -41,9 +39,9 @@
      <p></p>
      
        <div class="row">
-         <div class="small-12 medium-8 columns">
+         <div class="small-12 medium-8 large-7 columns">
            <h4>1.  Mitä hyötyä minulle olisi SAYL:n jäsenyydestä?</h4>
-           <p>Ystävyysseuran jäsenenä saat monipuolista tietoa Yhdysvalloista. 
+           <p align="">Ystävyysseuran jäsenenä saat monipuolista tietoa Yhdysvalloista. 
            Kanavinamme ovat: Suomi-USA –jäsenlehti neljästi vuodessa, sähköinen USA-uutiskirje, 
            noin 200 eri puolilla Suomea järjestettävää Amerikka-tilaisuutta vuodessa ja 
            aktiivinen Facebook-ryhmä. Olet samalla tekemässä suomesta kansainvälisillä 
@@ -63,12 +61,12 @@
            Meillä on lentoyhtiö- ja matkatoimistokumppaneita, joiden kanssa järjestämme mm. erilaisia teemamatkoja 
            Yhdysvaltoihin. Toisinaan yhteistyö näkyy myös tarjouksina jäsekunnalle.</p>
          </div>
-         <div class="small-12 medium-4 columns">
+         <div class="small-12 medium-4 large-5 columns">
            <img src="http://sayl.fi/wp-content/uploads/2013/04/faq.jpg"width="100%" height="">
          </div>
        </div>
        <div class="row">
-         </div class="small-12 columns">
+         <div class="small-11 columns">
            <h4>3.  Saako SAYL taloudellista tukea amerikkalaisilta?</h4>
            <p>Ei. SAYL:n rahoitus koostuu jäsenmaksuista, Suomen opetus- ja kulttuuriministeriön myöntämästä 
            ystävyysseuratoimintaan suunnatusta valtionavustuksesta ja mahdollisista projektikohtaisista avustuksista. 
@@ -76,10 +74,11 @@
            Suomen-suurlähetystön eri osastojen kanssa kanssa on hyvin aktiivista ja läheistä. </p>
            <h4>4.  Mistä saan tietoa kielikokeista ja tasotesteistä?</h4>
            <p>Tietoa Suomessa järjestettävistä SAT-testistä ja muista kansainvälistä kielitesteistä löydät suomeksi 
-           näiltä sivuilta kohdasta http://sayl.fi/kielitestit/Muista lukea ilmoittautumisohjeet huolella ja olla 
+           näiltä sivuilta kohdasta <a
+           href="http://sayl.fi/kielitestit/">http://sayl.fi/kielitestit/</a> Muista lukea ilmoittautumisohjeet huolella ja olla 
            testipaikalla hyvissä ajoin.</p>
            <p>Yhdysvaltain Suomen-suurlähetystön sivuilta löytyy myös usein kysyttyjä kysymyksiä ja vastauksia niihin:
-           http://finland.usembassy.gov/fi/faqs.html</p>
+           <a href="http://finland.usembassy.gov/fi/faqs.html">http://finland.usembassy.gov/fi/faqs.html</a></p>
          </div>
        </div>
            
