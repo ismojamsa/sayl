@@ -119,4 +119,10 @@
   margin:1;
   font-size:110%;
  }
-        
+/*tekstin sijainti*/
+.vasen {
+text-align: left;
+}
+.oikea {
+text-aign: right;
+}        
