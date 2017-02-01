@@ -9,6 +9,9 @@
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/tyyli.css">
     </head>
     <body>
+      <div class="container">
+        <div id="wrapper" class="hfeed">
+      
       <header>
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
@@ -25,7 +28,9 @@
         <li><a href="">Yhteystiedot</a>       
        </ul>
      </nav>
-      
+        
+        </div>
+      </div>
       
         <footer class="footer">
           <div class="container">

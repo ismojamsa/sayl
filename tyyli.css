@@ -76,5 +76,22 @@
        background-color: gainsboro;
        color: black;
      }
+/* reunat */
+media="screen and (min-device-width: 481px)"
+@media screen and (max-width: 1024px)
+#wrapper {
+    margin: 20px auto;
+    width: 94%;
+}
 
+media="screen and (min-device-width: 481px)"
+#wrapper, #access, #access .menu-header, div.menu, #colophon, #branding, #main, #footer {
+    /* width: 940px; */
+}
+
+#wrapper {
+    background: #fff;
+    padding: 0 0px;
+    background: url(http://sayl.fi/wp-content/themes/sayl/images/bg-header-home1.jpg) no-repeat;
+}
          
