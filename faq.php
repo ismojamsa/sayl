@@ -30,10 +30,10 @@
      </nav>
         
         
-      </div>
       
+      </div>
         <footer class="footer">
-          <div class="container">
+          <div class="container reunat">
             <div class="row">
               <div class="col-sm-12">
                 <img
@@ -46,7 +46,6 @@
             </div>
           </div>
         </footer> 
-      
         <script>
              $(document).foundation();
         </script>
