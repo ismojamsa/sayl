@@ -14,19 +14,19 @@
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
      </header>          
-     
+
      <nav>
-       <ul>
-        <li><a href="">Etusivu</a>
-        <li><a href="">Jäsennyys</a>
-        <li><a href="">Aktiviteetit</a>
-        <li><a href="">Matkailu</a>
-        <li><a href="">Julkaisut</a>
-        <li><a href="">FAQ</a>
-        <li><a href="">Yhteystiedot</a>       
+       <ul class="topnav" id="myTopnav">
+        <li><a href="">Etusivu</a></li>
+        <li><a href="">Jäsennyys</a></li>
+        <li><a href="">Aktiviteetit</a></li>
+        <li><a href="">Matkailu</a></li>
+        <li><a href="">Julkaisut</a></li>
+        <li><a href="">FAQ</a></li>
+        <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
-    
+
 
 
 <script>
