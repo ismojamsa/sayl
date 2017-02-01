@@ -13,10 +13,10 @@
      <header>
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
-     </header>          
+               
 
      <nav>
-       <ul class="topnav" id="myTopnav">
+       <ul>
         <li><a href="">Etusivu</a></li>
         <li><a href="">Jäsennyys</a></li>
         <li><a href="">Aktiviteetit</a></li>
@@ -26,7 +26,7 @@
         <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
-
+    </header>
 
 
 <script>
