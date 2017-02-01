@@ -78,20 +78,20 @@
      }
        li a {
        display: block;
-       color: red;
+       color: #e31c3d;
        text-align: center;
        padding: 15px 55px;
        text-decoration: none;
      }
        li a:hover {
        background-color: gainsboro;
-       color: black;
+       color: #e31c3d;
      }
+
 /* reunat */
 
  .reunat {
     margin-top: 50px;
-    margin-bottom: 100px;
     margin-right: 85px;
     margin-left: 85px;
  }
@@ -117,5 +117,6 @@
   .row p {
   padding:3px;
   margin:1;
+  font-size:110%;
  }
         

@@ -19,35 +19,31 @@
 
 
      <nav>
-       <ul>
-        <li><a href="">Etusivu</a></li>
+       <ul class="menu">
+        <li class="active"><a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/etusivu.php">Etusivu</a></li>
         <li><a href="">Jäsennyys</a></li>
         <li><a href="">Aktiviteetit</a></li>
         <li><a href="">Matkailu</a></li>
         <li><a href="">Julkaisut</a></li>
-        <li><a href="">FAQ</a></li>
+        <li><a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/faq.php">FAQ</a></li>
         <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
     </header>
 
-
+<br><br>
          <article>
            <div class="row">
            <div class="small-12 medium-12 large-6 columns">
            <p>SAYL kutsuu toimintaansa mukaan jokaisen, jota kiinnostaa Yhdysvallat, sen rikas kulttuuri ja kiehtova elämänmuoto. Tarjoamme toimintaa, tapaamisia, taidetta, tiedettä ja tietoa kaikenikäisille – tarjolla on kansainvälistymiskasvatusta parhaimmillaan. Tule mukaan!</p>
+           <br>
+           <p>Neljä kertaa vuodessa ilmestyvä Suomi-USA –jäsenlehti on luettavissa myös näköisversiona nettisivuillamme.</p>
            </div>
            <div class="small-12 medium-12 large-6 columns"> 
-           <img src="http://sayl.fi/wp-content/uploads/2013/04/210-600x286.jpg">
+           <img src="http://sayl.fi/wp-content/uploads/2014/05/kansi.jpg">
           </div>
          </div> 
-
-          <div class="row">
-           <div class="small-12 columns">
-           <br>
-
-           </div>
-          </div> 
+        
          </article>
 
 </div>
