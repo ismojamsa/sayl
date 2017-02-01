@@ -9,13 +9,32 @@
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/tyyli.css">
     </head>
     <body>
-      <div class="container-fluid text-center">
-      </div>
+      <header>
+      <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
+      <h5>SAYL</h5>
+     </header>          
+     
+     <nav>
+       <ul>
+        <li><a href="">Etusivu</a>
+        <li><a href="">Jäsennyys</a>
+        <li><a href="">Aktiviteetit</a>
+        <li><a href="">Matkailu</a>
+        <li><a href="">Julkaisut</a>
+        <li><a href="">FAQ</a>
+        <li><a href="">Yhteystiedot</a>       
+       </ul>
+     </nav>
       
       
         <footer class="footer">
           <div class="container">
             <div class="row">
+              <div class="col-sm-12">
+                <img
+                src="http://sayl.fi/wp-content/uploads/2015/09/toast_bagel1940x1803.png"width="100%" height="">
+              </div>
+            <div class="row y">
               <div class="col-sm-12">
                 <p>Eteläranta 6 A 8, 3. krs, 00130 Helsinki, Finland. sayl@sayl.fi Tekninen toteutus by Joan</p>
               </div>
