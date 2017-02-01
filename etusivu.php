@@ -4,8 +4,7 @@
         <meta charset="utf-8">
            <title>Sayl</title>
         <meta name="viewport" content="width-device-width,initial-scale=1.0"/>  
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.3.0/foundation.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation-icons/3.0/foundation-icons.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/tyyli.css">
     </head>
     <body>
@@ -33,6 +32,23 @@
     </header>
 
 
+         <article>
+           <div class="row">
+           <div class="small-12 medium-12 large-6 columns">
+           <p>SAYL kutsuu toimintaansa mukaan jokaisen, jota kiinnostaa Yhdysvallat, sen rikas kulttuuri ja kiehtova elämänmuoto. Tarjoamme toimintaa, tapaamisia, taidetta, tiedettä ja tietoa kaikenikäisille – tarjolla on kansainvälistymiskasvatusta parhaimmillaan. Tule mukaan!</p>
+           </div>
+           <div class="small-12 medium-12 large-6 columns"> 
+           <img src="http://sayl.fi/wp-content/uploads/2013/04/210-600x286.jpg">
+          </div>
+         </div> 
+
+          <div class="row">
+           <div class="small-12 columns">
+           <br>
+
+           </div>
+          </div> 
+         </article>
 
 </div>
         <footer class="footer">
@@ -52,6 +68,6 @@
 <script>
  $(document).foundation();
 </script>
-  <script src="https://cdn.jsdelivr.net/foundation/6.3.0/foundation.min.js"></script>    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.min.js"></script>
  </body>
 </html>
