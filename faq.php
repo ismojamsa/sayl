@@ -26,12 +26,12 @@
 
      <nav>
        <ul class="menu">         
-         <li><a href="">Etusivu</a></li>
+         <li><a href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/etusivu.php">Etusivu</a></li>
          <li><a href="">Jäsennyys</a></li>
          <li><a href="">Aktiviteetit</a></li>
          <li><a href="">Matkailu</a></li>
          <li><a href="">Julkaisut</a></li>
-         <li class="active"><a href="">FAQ</a></li>
+         <li class="active"><a href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/faq.php">FAQ</a></li>
          <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
