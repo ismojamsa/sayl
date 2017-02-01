@@ -3,33 +3,46 @@
     <head>
         <meta charset="utf-8">
            <title>Sayl</title>
+        <link rel="icon" type="image/png" href="https://saykokkola.yhdistysavain.fi/@Bin/171805/logo.jpeg">
         <meta name="viewport" content="width-device-width,initial-scale=1.0"/>  
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation/6.3.0/foundation.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/foundation-icons/3.0/foundation-icons.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~ismojamsa/php2017/git/sayl/tyyli.css">
+        <style>
+        
+        </style>
     </head>
     <body>
       <div class="container reunat">
         
-      
       <header>
-      <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
-      <h5>SAYL</h5>
-     </header>          
-     
+        <div class="row">
+          <div class="small-12 large-1 columns">
+            <img src="http://asukas.savonlinnaseutu.fi/sites/default/files/yhdistykset/amerikka.jpg" class="logo">
+          </div>
+          <div class="small-12 large-11 columns">
+            <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
+            <h5>SAYL</h5>
+          </div>
+        </div>
+
+
      <nav>
-       <ul>
-        <li><a href="">Etusivu</a>
-        <li><a href="">Jäsennyys</a>
-        <li><a href="">Aktiviteetit</a>
-        <li><a href="">Matkailu</a>
-        <li><a href="">Julkaisut</a>
-        <li><a href="">FAQ</a>
-        <li><a href="">Yhteystiedot</a>       
+       <ul class="menu">
+         <div class="row">
+           <div class="small-12">
+             <li><a href="">Etusivu</a></li>
+             <li><a href="">Jäsennyys</a></li>
+             <li><a href="">Aktiviteetit</a></li>
+             <li><a href="">Matkailu</a></li>
+             <li><a href="">Julkaisut</a></li>
+             <li class="active"><a href="">FAQ</a></li>
+             <li><a href="">Yhteystiedot</a></li>
+           </div>
+         </div>
        </ul>
      </nav>
-        
-        
+    </header>
+              
       
       </div>
         <footer class="footer">
@@ -49,6 +62,6 @@
         <script>
              $(document).foundation();
         </script>
-        <script src="https://cdn.jsdelivr.net/foundation/6.3.0/foundation.min.js"></script>    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/js/foundation.min.js"></script>        
     </body>
 </html>
