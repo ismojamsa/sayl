@@ -9,7 +9,8 @@
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/tyyli.css">
     </head>
     <body>
-    
+
+<div class="container reunat">    
      <header>
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
@@ -30,7 +31,7 @@
 
 
 
-
+</div>
         <footer class="footer">
           <div class="container">
             <div class="row">
@@ -45,7 +46,6 @@
             </div>
           </div>
         </footer> 
-
 
 <script>
  $(document).foundation();
