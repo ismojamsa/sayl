@@ -70,7 +70,8 @@
        overflow: hidden;
        background:white;
        border-bottom: 3px solid #e31c3d;
-       border-top: 3px solid #02bfe7;
+       border-top: 3px solid #02bfe7;       
+       text-align:center;
        }
        li {
        display: inline;
@@ -79,7 +80,6 @@
        li a {
        display: block;
        color: #e31c3d;
-       text-align: center;
        padding: 15px 55px;
        text-decoration: none;
      }

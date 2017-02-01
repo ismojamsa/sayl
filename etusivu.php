@@ -12,11 +12,16 @@
     <div class="container reunat">    
      
      <header>
-      <img src="http://asukas.savonlinnaseutu.fi/sites/default/files/yhdistykset/amerikka.jpg"
-      class="logo">
+     <div class="row">
+      <div class="small-12 large-1 columns">
+      <img src="http://asukas.savonlinnaseutu.fi/sites/default/files/yhdistykset/amerikka.jpg" class="logo">
+      </div>
+      <div class="small-12 large-11 columns">
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
-
+      </div>
+     </div>
+    </header>
 
      <nav>
        <ul class="menu">
@@ -29,7 +34,6 @@
         <li><a href="">Yhteystiedot</a></li>
        </ul>
      </nav>
-    </header>
 
 <br><br>
          <article>
