@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
            <title>Sayl</title>
+        <link rel="icon" type="image/png" href="https://saykokkola.yhdistysavain.fi/@Bin/171805/logo.jpeg">
         <meta name="viewport" content="width-device-width,initial-scale=1.0"/>  
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
         <link rel="stylesheet" href="http://cosmo.kpedu.fi/~arttuuuskartano/php2017/SAYL/sayl/tyyli.css">
