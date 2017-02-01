@@ -10,11 +10,14 @@
     </head>
     <body>
 
-<div class="container reunat">    
+    <div class="container reunat">    
+     
      <header>
+      <img src="http://asukas.savonlinnaseutu.fi/sites/default/files/yhdistykset/amerikka.jpg"
+      class="logo">
       <h1>Suomi-Amerikka yhdistyneiden liitto</h1>
       <h5>SAYL</h5>
-               
+
 
      <nav>
        <ul>
@@ -33,11 +36,10 @@
 
 </div>
         <footer class="footer">
-          <div class="container">
+          <div class="container reunat">
             <div class="row">
               <div class="col-sm-12">
-                <img
-                src="http://sayl.fi/wp-content/uploads/2015/09/toast_bagel1940x1803.png"width="100%" height="">
+                <img src="http://sayl.fi/wp-content/uploads/2015/09/toast_bagel1940x1803.png"width="100%" height="">
               </div>
             <div class="row y">
               <div class="col-sm-12">

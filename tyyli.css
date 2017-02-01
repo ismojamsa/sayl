@@ -42,14 +42,25 @@
     margin:0;
     }
     h1 {
-    padding:0px 0px 0px 40px;
+    padding:0px 0px 0px 85px;
     color:black;
     } 
     h5 {
-    padding:0px 0px 0px 40px;
+    padding:0px 0px 0px 85px;
     color:black;
     }  
-
+    
+    .column {
+    float: left;
+    padding: 0px;
+    }
+    .image {
+    width:1%;
+    }
+    .otsikko {
+    width:99%;
+    }
+    
 /* Navigointi */
 
        ul {
@@ -84,4 +95,11 @@
     margin-right: 85px;
     margin-left: 85px;
  }
-         
+
+/* image */ 
+
+ img.logo {
+ position:absolute;
+ margin-left:-5px;
+ width:80px;
+ }        
